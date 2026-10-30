@@ -1,0 +1,9 @@
+requests/
+urllib3/
+idna/
+chardet/
+certifi/
+bin/
+*.dist-info/
+__pycache__/
+.serverless/
